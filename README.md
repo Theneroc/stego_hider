@@ -1,6 +1,6 @@
 # StegoHider
 
-**TODO: Add description**
+**TODO: Creating a steganographic program using LSB to non-sequentially distribute a secret message via file over a cover file. The main aim is to hide a secret message within a file and send it to the receiver (currently the remote user). The key will also be sent to show that the secret can be extracted from the .stego file.**
 
 ## Installation
 
